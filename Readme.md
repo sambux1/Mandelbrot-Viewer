@@ -8,4 +8,4 @@ The program has 3 files: one to create and update the GUI, one to create the gra
 
 The Mandelbrot set is a mathematical set of numbers in the complex plane which do not diverge when a function is iteratively applied. For more information, visit this page: https://en.wikipedia.org/wiki/Mandelbrot_set.
 
-![alt text](https://github.com/sambux1/Mandelbrot-Viewer/screenshots/mandelbrot.png?raw=true)
+![alt text](https://github.com/sambux1/Mandelbrot-Viewer/blob/master/screenshots/mandelbrot.png?raw=true)
